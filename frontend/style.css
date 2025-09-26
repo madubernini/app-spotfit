@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#map {
+    height: 60vh;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 15px;
+}
